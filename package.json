@@ -1,0 +1,38 @@
+{
+  "name": "react-dashboard-design",
+  "description": "Admin Dashboard inspired by and based on the Vercel™ Design System.",
+  "version": "0.2.0",
+  "author": "Ofek Ashery",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ofekashery/react-dashboard-design.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ofekashery/react-dashboard-design/issues"
+  },
+  "dependencies": {
+    "@geist-ui/react": "^2.2.0",
+    "@geist-ui/react-icons": "^1.0.1",
+    "@material-ui/core": "^4.11.4",
+    "@material-ui/icons": "^4.11.2",
+    "clsx": "^1.1.1",
+    "next": "^11.1.1",
+    "prettier": "^2.0.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-grid-layout": "^1.2.5",
+    "react-sizeme": "^3.0.1",
+    "recharts": "^2.0.9",
+    "react-feather": "^2.0.8"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.5",
+    "typescript": "^4.2.4"
+  }
+}
